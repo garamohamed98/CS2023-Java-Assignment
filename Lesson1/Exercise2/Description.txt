@@ -1,0 +1,2 @@
+**Exercice Description:**
+Écrire une classe nommée Comparaison3. La fonction principale de cette classe devra déclarer, initialiser et comparer trois entiers a, b et c et afficher leurs valeurs dans un ordre croissant.
