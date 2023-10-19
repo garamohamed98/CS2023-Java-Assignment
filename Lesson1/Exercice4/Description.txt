@@ -1,0 +1,2 @@
+**Exercise Description:**
+Écrire une classe nommée TestPremier. La fonction principale de cette classe devra permettre de déclarer et initialiser un entier. Ensuite, le programme devra tester si cet entier est premier ou pas. Un affichage à l'écran est réalisé pour informer l'utilisateur du résultat.
