@@ -1,0 +1,2 @@
+## Exercise Description:
+Écrire une classe nommée ListePremier. La fonction principale de cette classe devra permettre d'afficher tous les nombres premiers inférieurs à un entier positif 'x' (où 'x' est un entier déclaré et initialisé dans le programme).

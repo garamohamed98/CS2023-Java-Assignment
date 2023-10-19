@@ -1,4 +1,4 @@
-# S2023-Java-Assignment
+# CS2023-Java-Assignment
 This repository contains the code and related files for the CS2023 course's Java assignment. It's a part of our coursework for the semester, focusing on Java programming concepts and problem-solving. You'll find the source code, documentation, and any additional resources necessary to complete and understand the assignment. 
 
 # Lesson One: Introduction to Java Programming
@@ -7,10 +7,11 @@ Welcome to Lesson One of the CS2023 Java Assignment!
 
 ## Exercises
 
-- [Exercise 1: Maximum of Two Integers Exercise](Lesson1/Exercice1/Description.txt)
-- [Exercise 2: Implementing Class Comparaison3 for Sorting Three Integers](Lesson1/Exercice2/Description.txt)
-- [Exercise 3: Implementing Class Equation2 for Solving Quadratic Equations](Lesson1/Exercice3/Description.txt)
-- [Exercise 4: Implementing Class TestPremier for Testing Prime Numbers](Lesson1/Exercice4/Description.txt)
+- [Exercise 1: Maximum of Two Integers Exercise](Lesson1/Exercice1/Description.md)
+- [Exercise 2: Implementing Class Comparaison3 for Sorting Three Integers](Lesson1/Exercice2/Description.md)
+- [Exercise 3: Implementing Class Equation2 for Solving Quadratic Equations](Lesson1/Exercice3/Description.md)
+- [Exercise 4: Implementing Class TestPremier for Testing Prime Numbers](Lesson1/Exercice4/Description.md)
+- [Exercise 5: Implementing Class ListePremier for Displaying Prime Numbers](Lesson1/Exercice5/Description.md)
 
 ## Code
 
@@ -24,6 +25,7 @@ Feel free to click on the exercise titles to view the descriptions and explore t
 - [Exercise 2 Solution](Lesson1/Exercice2/Comparaison3.java): This is the Java code that provides a solution to Exercise 2.
 - [Exercise 3 Solution](Lesson1/Exercice3/Equation2.java): This is the Java code that provides a solution to Exercise 3.
 - [Exercise 4 Solution](Lesson1/Exercice4/TestPremier.java): This is the Java code that provides a solution to Exercise 4.
+- [Exercise 5 Solution](Lesson1/Exercice5/ListePremier.java): This is the Java code that provides a solution to Exercise 5.
 
 ## Using the Exercise Solutions
 
