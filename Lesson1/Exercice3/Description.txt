@@ -1,0 +1,2 @@
+**Task Description:**
+Écrire une classe nommée Equation2. Cette classe devra résoudre une équation de second degré de la forme ax²+bx+c=0 (avec a, b et c trois variables de type réel qui sont déclarées et initialisées dans la fonction principale). Le résultat doit être affiché à l'écran.

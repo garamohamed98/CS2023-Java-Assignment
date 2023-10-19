@@ -9,6 +9,7 @@ Welcome to Lesson One of the CS2023 Java Assignment!
 
 - [Exercise 1: Maximum of Two Integers Exercise](Lesson1/Exercise1/Description.txt)
 - [Exercise 2: Implementing Class Comparaison3 for Sorting Three Integers](Lesson1/Exercise2/Description.txt)
+- [Exercise 3: Implementing Class Equation2 for Solving Quadratic Equations](Lesson1/Exercise3/Description.txt)
 
 ## Code
 
@@ -19,7 +20,8 @@ Feel free to click on the exercise titles to view the descriptions and explore t
 **Exercise Solutions:**
 
 - [Exercise 1 Solution](Lesson1/Exercise1/Comparaison2.java): This is the Java code that provides a solution to Exercise 1.
-- [Exercise 2 Solution](Lesson1/Exercise1/Comparaison3.java): This is the Java code that provides a solution to Exercise 2.
+- [Exercise 2 Solution](Lesson1/Exercise2/Comparaison3.java): This is the Java code that provides a solution to Exercise 2.
+- [Exercise 3 Solution](Lesson1/Exercise3/Equation2.java): This is the Java code that provides a solution to Exercise 3.
 
 ## Using the Exercise Solutions
 
@@ -31,11 +33,11 @@ To use the exercise solutions, you'll need to have the Java JDK (Java Developmen
 
 3. **Compilation:** To compile the Java code, open your terminal or command prompt, navigate to the directory where the .java file is located, and use the following command:
    ```shell
-    javac Exercise1Solution.java
+   javac Exercise1Solution.java
    ```
 4. **Running the Code:** After successful compilation, you can run the code using the following command:
     ```shell
-        java Exercise1Solution
+    java Exercise1Solution
     ```
 
 If you have any questions or need clarification, don't hesitate to reach out.
