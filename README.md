@@ -12,7 +12,8 @@ Welcome to Lesson One of the CS2023 Java Assignment!
 - [Exercise 3: Implementing Class Equation2 for Solving Quadratic Equations](Lesson1/Exercice3/Description.md)
 - [Exercise 4: Implementing Class TestPremier for Testing Prime Numbers](Lesson1/Exercice4/Description.md)
 - [Exercise 5: Implementing Class ListePremier for Displaying Prime Numbers](Lesson1/Exercice5/Description.md)
-- [Exercise 6: Implementing Classes Factorielle1 and Factorielle2 for Calculating Factorials](Lesson1/Exercice5/Description.md)
+- [Exercise 6: Implementing Classes Factorielle1 and Factorielle2 for Calculating Factorials](Lesson1/Exercice6/Description.md)
+- [Exercise 7: Implementing Class Multiplication for Multiplication Table](Lesson1/Exercice7/Description.md)
 
 ## Code
 
@@ -27,8 +28,9 @@ Feel free to click on the exercise titles to view the descriptions and explore t
 - [Exercise 3 Solution](Lesson1/Exercice3/Equation2.java): This is the Java code that provides a solution to Exercise 3.
 - [Exercise 4 Solution](Lesson1/Exercice4/TestPremier.java): This is the Java code that provides a solution to Exercise 4.
 - [Exercise 5 Solution](Lesson1/Exercice5/ListePremier.java): This is the Java code that provides a solution to Exercise 5.
-- [Exercise 6 Solution](Lesson1/Exercice5/Factorielle1.java): This is the Java code that provides a solution to Exercise 6 question 1.
-- [Exercise 6 Solution](Lesson1/Exercice5/Factorielle2.java): This is the Java code that provides a solution to Exercise 6 question 2.
+- [Exercise 6 Solution](Lesson1/Exercice6/Factorielle1.java): This is the Java code that provides a solution to Exercise 6 question 1.
+- [Exercise 6 Solution](Lesson1/Exercice6/Factorielle2.java): This is the Java code that provides a solution to Exercise 6 question 2.
+- [Exercise 7 Solution](Lesson1/Exercice7/Multiplication.java): This is the Java code that provides a solution to Exercise 7.
 
 ## Using the Exercise Solutions
 
